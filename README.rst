@@ -7,7 +7,7 @@ MOVED TO GITLAB
 
 POP projects developed by Saltstack are being moved to Gitlab.
 
-The new location of idem is here:
+The new location of heist is here:
 
 https://gitlab.com/saltstack/pop/heist
 
